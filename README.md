@@ -40,9 +40,9 @@ This project is a simulation of a **secure enterprise network environment** desi
 ## 📁 Folder Structure
 
 -Network Diagram:  
--Network packet tracer file
--Network packet tracer coding file
--Network routing table
--screen shots of successful connection
+-Network packet tracer file:
+-Network packet tracer coding file:
+-Network routing table:
+-screen shots of successful connection:
 
 
