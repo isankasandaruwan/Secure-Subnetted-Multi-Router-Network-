@@ -35,11 +35,14 @@ This project is a simulation of a **secure enterprise network environment** desi
 - Multiple departments (HR, Admin, IT, Finance, Users)
 - End devices and servers with logical IP assignments
 
-Network Diagram:  
-![Network Topology](topology/network-diagram.png)
-
 ---
 
 ## 📁 Folder Structure
+
+-Network Diagram:  
+-Network packet tracer file
+-Network packet tracer coding file
+-Network routing table
+-screen shots of successful connection
 
 
